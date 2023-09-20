@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola mi nombre es Ignacio Bala. Soy programador front-end y pronto full stack. Actualmente estudio la carrera técnica en Programación y, a su vez, realiza cursos en "la casa del futuro" en Mendoza.<br><br>Quiero ampliar mis conocimientos, y busco una empresa que pueda aportarme lo mismo.<br><br>Soy un buen colaborador y me gusta trabajar en equipo.<br><br<br><br>Amo mi carrera y estoy en busca de un crecimiento profesional en esta hermosa profesión espero puedas contactarme!!
+Hola mi nombre es Ignacio Bala. Soy programador front-end y pronto full stack. Actualmente estudio la carrera técnica en Programación y, a su vez, realiza cursos en "la casa del futuro" en Mendoza.<br><br>Quiero ampliar mis conocimientos, y busco una empresa que pueda aportarme lo mismo.<br><br>Soy un buen colaborador y me gusta trabajar en equipo.<br<br><br>Amo mi carrera y estoy en busca de un crecimiento profesional en esta hermosa profesión espero puedas contactarme!!
 
 
 ## 🌐 Socials:
