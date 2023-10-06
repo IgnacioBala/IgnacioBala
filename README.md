@@ -1,5 +1,5 @@
 # 💫 About Me:
-“Soy estudiante de la Tecnicatura en Programación en la Universidad Tecnológica Nacional (UTN). Además, estoy participando en un programa de estudio en la Casa del Futuro donde estoy aprendiendo desarrollo Frontend.<br><br>Quiero ampliar mis conocimientos, y busco una empresa que pueda aportarme lo mismo.<br><br>Soy un buen colaborador y me gusta trabajar en equipo.<br<br><br>Amo mi carrera y estoy en busca de un crecimiento profesional en esta hermosa profesión espero puedas contactarme!!
+“Soy estudiante de la Tecnicatura en Programación en la Universidad Tecnológica Nacional (UTN). Además, estoy participando en un programa de estudio en la Casa del Futuro donde estoy aprendiendo desarrollo Frontend.<br><br>Quiero ampliar mis conocimientos, y busco una empresa que pueda aportarme lo mismo.Soy un buen colaborador y me gusta trabajar en equipo.<br<br><br>Amo mi carrera y estoy en busca de un crecimiento profesional en esta hermosa profesión espero puedas contactarme!!
 
 
 ## 🌐 Socials:
